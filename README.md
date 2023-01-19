@@ -1,4 +1,4 @@
-# ChallegeApp
+# App
 
 
 I have created simple app where we take input from user First Name, Last Name, Email and then it will display details enter by the User.
